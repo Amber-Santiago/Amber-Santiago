@@ -28,4 +28,7 @@ I am currently located in Kirkland, Washington, and I'm open to remote work oppo
 
 Let's connect and explore the possibilities of working together on exciting data projects!
 
+Feel free to contact me on Github or LinkedIn www.linkedin.com/in/ambersantiago14 
+You can view my resume here.
+
 ---
