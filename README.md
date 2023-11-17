@@ -18,9 +18,9 @@ I'm eager to participate in outsourcing projects that require data analysis, rep
 
 ## Primary Tech Skills
 
-- Data Analysis: Google Sheets, Excel
+- Data Analysis: Google Sheets, Excel, Tableau, Power BI, SQL
 - Project Management: Task organization, team collaboration
-- Data Visualization: Charts, graphs, and dashboards
+- Data Visualization: Graphs, Powerpoint, charts.
 
 ## Location
 
